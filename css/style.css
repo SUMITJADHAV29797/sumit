@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+ text-align: center;
+ font-family: serif;
+}
+hr {
+  background-color: #423F3E;
+  margin: 0;
+  height: 7px;
+  border: none;
+}
+h1 {
+  margin: 0;
+  font-family: lato sans-serif;
+  font-size: 5.62rem;
+  color: white;
+  line-height: 1;
+}
+h2 {
+  font-size: 2.5rem;
+  color: white;
+  font-weight: normal;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h3 {
+  color: white;
+}
+p {
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  font-size: larger;
+}
+a {
+  color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.top-container {
+  background-color: black;
+  padding-top: 100px;
+  padding-bottom:100px;
+}
+.first-container {
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.second-container {
+  background-color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.third-container {
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom-container {
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Skills-row-description {
+  margin-top: 0;
+  float: right;
+  margin-right: 15%;
+}
+.Skill-row-description {
+  margin-bottom: 0;
+  float: left;
+  margin-left: 15%;
+}
+.sumit-jadhav {
+  width: 15%;
+  height: 15%;
+}
+.gmail{
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: red;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.twitter {
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: red;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
